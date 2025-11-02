@@ -10,7 +10,9 @@ It focuses on exploring author trends, genre ratings, and overall data insights.
 - Python
 - Pandas
 - Matplotlib (for optional visualizations)
-
+##📊 data 📊
+you can downlod it from : https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019?resource=download
+or directly from the file bestsellers.cvs
 ## 📊 Key Steps
 1. Load and explore the dataset  
 2. Clean the data (remove duplicates, rename columns, convert data types)  
